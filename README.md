@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Adeseye
+- 👋 Hi, I’m Adeseye
 - 👀 I’m interested in AWS Cloud computing
 - 🌱 I’m currently learning AWS DevOps
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any related DevOps projects
 - 📫 How to reach me Twitter: @Infoseye 
 
 <!---
