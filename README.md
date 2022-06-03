@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adeseye
 - 👀 I’m interested in AWS Cloud computing :cloud:
 - 🌱 I’m currently learning AWS DevOps
-- 💞️ I’m looking to collaborate on any related DevOps projects
+- 💞️ I’m looking to collaborate on any related Cloud ☁️ projects
 - 📫 How to reach me Twitter: @Infoseye 
 
 <!---
